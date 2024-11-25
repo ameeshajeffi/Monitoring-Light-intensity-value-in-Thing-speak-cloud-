@@ -1,5 +1,5 @@
 ## EXP 4
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 # Name : Ameesha Jeffi
 # REG NO :212223220007
